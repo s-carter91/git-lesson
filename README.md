@@ -1,17 +1,14 @@
 # First Repo!
 
-This is a test repo for the git lesson
+## Subheading
+
+This is the furst change to this file
 
 ```sh
 ls -la
 mkdir food
 ```
 
-1. one
-2. two
-3. three
-
 - one
 - two
 - three
-
